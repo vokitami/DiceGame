@@ -91,14 +91,5 @@ Tabla de Probabilidades / Probability Table
 Muestra la probabilidad de que un dado le gane a otro, calculando todas las combinaciones posibles:
 Shows the probability that one die will beat another by calculating all possible combinations:
 
-Probability of the win for the user:
-+-----------------+------------------+------------------+------------------+
-| User dice v     | 2,2,4,4,9,9      | 6,8,1,1,8,6      | 7,5,3,7,5,3      |
-+-----------------+------------------+------------------+------------------+
-| 2,2,4,4,9,9      | .𝟹𝟹𝟹𝟹            | .4444            | .3888            |
-| 6,8,1,1,8,6      | .5555            | .𝟹𝟹𝟹𝟹            | .4444            |
-| 7,5,3,7,5,3      | .6111            | .5555            | .𝟹𝟹𝟹𝟹            |
-+-----------------+------------------+------------------+------------------+
-
 Desarrollado por Karen Pacheco.
 Developed by Karen Pacheco.
