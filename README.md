@@ -1,4 +1,4 @@
-# 🎲 Juego de Dados No Transitivos con HMAC  
+Juego de Dados No Transitivos con HMAC  
 **Non-Transitive Dice Game with HMAC**
 
 Este es un juego de dados por consola con seguridad criptográfica incorporada usando HMAC. Los jugadores compiten eligiendo dados no transitivos y realizan tiradas seguras y verificables.
